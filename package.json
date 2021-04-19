@@ -1,0 +1,20 @@
+{
+  "name": "my_promise",
+  "version": "1.0.0",
+  "description": "Javascript implementation of Promise A plus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkn/my_promise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inkn/my_promise/issues"
+  },
+  "homepage": "https://github.com/inkn/my_promise#readme"
+}
